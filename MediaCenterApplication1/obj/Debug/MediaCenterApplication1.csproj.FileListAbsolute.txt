@@ -1,0 +1,7 @@
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\bin\Debug\MediaCenterApplication1.dll
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\bin\Debug\MediaCenterApplication1.pdb
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\obj\Debug\ResolveAssemblyReference.cache
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\obj\Debug\MediaCenterApplication1.Resources.resources
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\obj\Debug\MediaCenterApplication1.csproj.GenerateResource.Cache
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\obj\Debug\MediaCenterApplication1.dll
+H:\My DropBox\Visual Studio 2008\Projects\MediaCenterApplication1\MediaCenterApplication1\obj\Debug\MediaCenterApplication1.pdb

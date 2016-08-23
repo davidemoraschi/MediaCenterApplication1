@@ -1,0 +1,9 @@
+﻿<application title="MediaCenterApplication1" id="{b7451705-6972-4a72-a6ec-45ee9a61828b}">
+	<entrypoint id="{a2c02e14-a2da-400d-bf3b-ae08ce4229fc}"
+				addin="MediaCenterApplication1.MyAddIn, MediaCenterApplication1,Culture=Neutral,Version=1.0.0.0,PublicKeyToken=insert_public_key_token_here"
+				title="MediaCenterApplication1"
+				description="MediaCenterApplication1 Description"
+				ImageUrl=".\Application.png">
+		<category category="More Programs"/>
+	</entrypoint>
+</application>
